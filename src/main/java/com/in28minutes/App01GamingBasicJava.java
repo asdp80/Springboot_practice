@@ -1,13 +1,11 @@
 package com.in28minutes;
 
 import com.in28minutes.game.GameRunner;
-import com.in28minutes.game.MarioGame;
 import com.in28minutes.game.PacMan;
-import com.in28minutes.game.SuperContraGame;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
     public static void main(String[] args) {
        //gamerunner class 인스턴스를 만들고 마리오를 시작해보자.
 
